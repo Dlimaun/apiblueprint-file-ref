@@ -18,6 +18,7 @@ This command will create a single file.
 * Make this a command line, to call it directly, like `api-refs ...`. (or something like that)
 * Add Tests
 * Add to npm repository
+* Add example
 
 ## How help
 You can do anything!
