@@ -4,9 +4,9 @@ Our main focus is on [Apiary](apiary.io) but this probly works for everything.
 
 ## Prepare
 Create your blueprint.
-Whenever you want to include another file, use `"$ref <filename>".
+Whenever you want to include another file, use `"$ref <filename>"`.  
 The **linked files** can *link* other files.
-Be careful of ciclic links.
+Be careful of cyclic links.
 
 ## Run
 This command will create a single file.
